@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/home/justin/.local/bin/waynergy.start.zsh
+Icon=application-x-shellscript
+Name=waynergy.start.zsh
+Type=Application
+X-KDE-AutostartScript=true
